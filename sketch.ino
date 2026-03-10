@@ -1,5 +1,5 @@
 /*
-  ROULETTE GAME
+  TRAFFIC LIGHT
 
   Author:
   Nicolas GOSSARD
@@ -11,9 +11,9 @@ constexpr int orangePin = 8;
 constexpr int greenPin = 7;
 
 // time
-constexpr int redTime = 4;
-constexpr int orangeTime = 1;
-constexpr int greenTime = 3;
+constexpr int redTime = 4000;
+constexpr int orangeTime = 1000;
+constexpr int greenTime = 3000;
 
 void setup()
 {
