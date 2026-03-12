@@ -1,10 +1,13 @@
 # Arduino Traffic Light (WOKWI)
 
-Simple Arduino project that simulates a traffic light using three LEDs.
+A simplified traffic light simulation running on Arduino.
+
+<img src="preview.gif" width="500">
 
 ## Components
 
 - Arduino Uno
+- Half Breadboard
 - Resistor 220Ω (3)
 - LED (3)
 
