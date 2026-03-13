@@ -1,6 +1,6 @@
-# Arduino Traffic Light (WOKWI)
+# Traffic Light - Arduino (Wokwi)
 
-A simplified traffic light simulation running on Arduino.
+A simplified traffic light simulation built with Arduino.
 
 <img src="preview.gif" width="500">
 
